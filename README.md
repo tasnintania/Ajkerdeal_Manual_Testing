@@ -30,29 +30,29 @@ The Summary of all the tasks done for the Ajkerdeal websites are given below wit
 Some of the samples of the Test Cases.
 
 <p align="center">
-  <img src="Test%20Case.png" />
+  <img src="image/Test%20Case.png" />
 </p>
 
 ### Bug Report
 Some of the samples of the Bug Report.
 <p align="center">
-  <img src="Bug%20Report.png" />
+  <img src="image/Bug%20Report.png" />
 </p>
 
 ### Test Case Report
 
 <p align="center">
-  <img src="Test%20Case%20Report.png" />
+  <img src="image/Test%20Case%20Report.png" />
 </p>
 
 ### Test Metrics
 
 <p align="center">
-  <img src="Test%20Metrics.png" />
+  <img src="image/Test%20Metrics.png" />
 </p>
 
 ### Mind Map
 A partial Mind Map for Ajkerdeal.
 <p align="center">
-  <img src="Mindmap%20of%20Ajkerdeal.png" />
+  <img src="image/Mindmap%20of%20Ajkerdeal.png" />
 </p>
