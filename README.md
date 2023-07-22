@@ -9,13 +9,13 @@
   - [Mind Map](#Mind-map)    
 
 # Introduction
-This document explains how I have done writing Test Cases, Bug Report, Test Case Report, Test Metrics and Mind Maps on e-commerce websites. 
+This document explains how I have done writing Test Cases, Bug Reports, Test Case Reports, Test Metrics, and Mind Maps on e-commerce websites. 
 
-The tasks are done for Registration , Sign In & Sign Out,Order, Marchent Corner features.
+The tasks are done for Registration, Sign In & Sign Out, Order, and Marchent Corner features.
 
 
 # Summary 
-The Summary of all the tasks done for the Ajkerdeal websites are given below with a table.
+The Summary of all the tasks done for the Ajkerdeal websites is given below in a table.
 
 | :---         |    
 | Test Case Summary   | 
