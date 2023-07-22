@@ -2,11 +2,11 @@
 - [Introduction](#introduction)
 - [Summary](#summary) 
 - [Test Case Works for Ajkerdeal](#Test-Case-Works-for-Ajkerdeal)  
-  - [Test Cases] (#Test-Cases)   
-  - [Bug Report] (#Bug-Report) 
-  - [Test Case Report] (#Test-Case-Report)  
-  - [Test Metrics] (#Test-Metrics)    
-  - [Mind Map] (#Mind-map)    
+  - [Test Cases](#Test-Cases)   
+  - [Bug Report](#Bug-Report) 
+  - [Test Case Report](#Test-Case-Report)  
+  - [Test Metrics](#Test-Metrics)    
+  - [Mind Map](#Mind-map)    
 
 # Introduction
 This document explains how I have done writing Test Cases, Bug Reports, Test Case Reports, Test Metrics, and Mind Maps on e-commerce websites. 
