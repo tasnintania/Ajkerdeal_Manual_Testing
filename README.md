@@ -2,16 +2,16 @@
 - [Introduction](#introduction)
 - [Summary](#summary) 
 - [Test Case Works for Ajkerdeal](#Test-Case-Works-for-Ajkerdeal)  
-  - [Test Cases](#Test-Cases)   
-  - [Bug Report](#Bug-Report) 
-  - [Test Case Report](#Test-Case-Report)  
-  - [Test Metrics](#Test-Metrics)    
-  - [Mind Map](#Mind-map)    
+  - [Test Cases] (#Test-Cases)   
+  - [Bug Report] (#Bug-Report) 
+  - [Test Case Report] (#Test-Case-Report)  
+  - [Test Metrics] (#Test-Metrics)    
+  - [Mind Map] (#Mind-map)    
 
 # Introduction
 This document explains how I have done writing Test Cases, Bug Reports, Test Case Reports, Test Metrics, and Mind Maps on e-commerce websites. 
 
-The tasks are done for Registration, Sign In & Sign Out, Order, and Marchent Corner features.
+The tasks are done for Registration, Sign In & Sign Out Order, and Marchent Corner features.
 
 
 # Summary 
@@ -42,7 +42,7 @@ Some of the samples of the Bug Report.
 ### Test Case Report
 
 <p align="center">
-  <img src="image/Test%20Case%20Report.png" />
+  <img src="image/Test%20Case%20Report.png"/>
 </p>
 
 ### Test Metrics
@@ -54,5 +54,5 @@ Some of the samples of the Bug Report.
 ### Mind Map
 A partial Mind Map for Ajkerdeal.
 <p align="center">
-  <img src="image/Mindmap%20of%20Ajkerdeal.png" />
+  <img src="image/Mindmap%20of%20Ajkerdeal.png"/>
 </p>
